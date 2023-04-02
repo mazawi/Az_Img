@@ -1,1 +1,1 @@
-# Az_Img
+# Image Processing Library in Python
